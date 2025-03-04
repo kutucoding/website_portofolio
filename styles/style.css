@@ -305,6 +305,12 @@ nav ul li a {
     margin-bottom: 10px; /* Memberi jarak bawah */
 }
 
+.portfolio li {
+    line-height: 1.2; /* Mengatur tinggi baris agar teks lebih renggang */
+    margin-top: 5px; /* Memberi jarak atas */
+    margin-bottom: 5px; /* Memberi jarak bawah */
+}
+
 /* Skills & Education*/
 
 #skills {
